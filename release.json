@@ -1,20 +1,19 @@
 {
 	"major_release": "iOS 1",
-	"release": "iOS SDKb4",
+	"release": "iOS SDKb5",
 	"projects": [
 		{
 			"project": "cctools",
-			"tag": "cctools-667.6.0",
-			"updated": true
+			"tag": "cctools-667.6.0"
 		},
 		{
 			"project": "gcc",
-			"tag": "gcc-5482",
+			"tag": "gcc-5483",
 			"updated": true
 		},
 		{
 			"project": "gdb",
-			"tag": "gdb-954",
+			"tag": "gdb-956",
 			"updated": true
 		},
 		{
