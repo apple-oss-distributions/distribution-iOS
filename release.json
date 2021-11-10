@@ -1,15 +1,14 @@
 {
 	"major_release": "iOS 5",
-	"release": "iOS 5.1",
+	"release": "iOS 5.1.1",
 	"projects": [
 		{
 			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-903.5",
-			"updated": true
+			"tag": "JavaScriptCore-903.5"
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-1298.37",
+			"tag": "WebCore-1298.39",
 			"updated": true
 		},
 		{
@@ -30,8 +29,7 @@
 		},
 		{
 			"project": "libiconv",
-			"tag": "libiconv-34",
-			"updated": true
+			"tag": "libiconv-34"
 		},
 		{
 			"project": "libstdcxx",
