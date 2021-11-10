@@ -19,3 +19,6 @@
 [submodule "libstdcxx"]
 	path = libstdcxx
 	url = https://github.com/apple-oss-distributions/libstdcxx
+[submodule "libiconv"]
+	path = libiconv
+	url = https://github.com/apple-oss-distributions/libiconv
