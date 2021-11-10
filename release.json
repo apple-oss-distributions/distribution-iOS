@@ -1,29 +1,26 @@
 {
 	"major_release": "iOS 4",
-	"release": "iOS 4.2",
+	"release": "iOS 4.3.1",
 	"projects": [
 		{
 			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-621.1",
-			"updated": true
+			"tag": "JavaScriptCore-721.26"
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-855.7",
-			"updated": true
+			"tag": "WebCore-955.66"
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-782"
+			"tag": "cctools-795"
 		},
 		{
 			"project": "gcc",
-			"tag": "gcc-5664"
+			"tag": "gcc-5666.3"
 		},
 		{
 			"project": "gdb",
-			"tag": "gdb-1510",
-			"updated": true
+			"tag": "gdb-1515"
 		},
 		{
 			"project": "gnumake",
@@ -35,13 +32,11 @@
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-97.17",
-			"updated": true
+			"tag": "ld64-97.17"
 		},
 		{
 			"project": "libiconv",
-			"tag": "libiconv-30",
-			"updated": true
+			"tag": "libiconv-30"
 		},
 		{
 			"project": "libstdcxx",
