@@ -10,12 +10,15 @@
 [submodule "gdb"]
 	path = gdb
 	url = https://github.com/apple-oss-distributions/gdb
-[submodule "gnumake"]
-	path = gnumake
-	url = https://github.com/apple-oss-distributions/gnumake
 [submodule "ld64"]
 	path = ld64
 	url = https://github.com/apple-oss-distributions/ld64
 [submodule "libstdcxx"]
 	path = libstdcxx
 	url = https://github.com/apple-oss-distributions/libstdcxx
+[submodule "WTFEmbedded"]
+	path = WTFEmbedded
+	url = https://github.com/apple-oss-distributions/WTFEmbedded
+[submodule "libiconv"]
+	path = libiconv
+	url = https://github.com/apple-oss-distributions/libiconv
