@@ -1,19 +1,20 @@
 {
 	"major_release": "iOS 7",
-	"release": "iOS 7.0.3",
+	"release": "iOS 7.1",
 	"projects": [
 		{
 			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-1218.0.1",
+			"tag": "JavaScriptCore-1218.33",
 			"updated": true
 		},
 		{
 			"project": "WTFEmbedded",
-			"tag": "WTFEmbedded-95"
+			"tag": "WTFEmbedded-95.23",
+			"updated": true
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-1889.1.3",
+			"tag": "WebCore-1889.59",
 			"updated": true
 		},
 		{
