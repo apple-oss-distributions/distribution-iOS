@@ -1,38 +1,26 @@
 {
-	"major_release": "iOS 6",
-	"release": "iOS 6.0",
+	"major_release": "iOS 7",
+	"release": "iOS 7.0",
 	"projects": [
 		{
 			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-1097.3"
+			"tag": "JavaScriptCore-1218"
 		},
 		{
 			"project": "WTFEmbedded",
-			"tag": "WTFEmbedded-20"
+			"tag": "WTFEmbedded-95"
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-1640"
-		},
-		{
-			"project": "cctools",
-			"tag": "cctools-836"
-		},
-		{
-			"project": "gdb",
-			"tag": "gdb-1822"
+			"tag": "WebCore-1889.1"
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-134.9"
+			"tag": "ld64-224.1"
 		},
 		{
 			"project": "libiconv",
-			"tag": "libiconv-35"
-		},
-		{
-			"project": "libstdcxx",
-			"tag": "libstdcxx-56"
+			"tag": "libiconv-41"
 		}
 	]
 }
