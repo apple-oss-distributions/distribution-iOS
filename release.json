@@ -1,46 +1,46 @@
 {
-	"major_release": "iOS 3",
-	"release": "iPhone 3.0",
+	"major_release": "iOS 4",
+	"release": "iOS 4.0",
 	"projects": [
 		{
 			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-521"
+			"tag": "JavaScriptCore-576"
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-514"
+			"tag": "WebCore-737.5"
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-751"
+			"tag": "cctools-782"
 		},
 		{
 			"project": "gcc",
-			"tag": "gcc-5572.10.2"
+			"tag": "gcc-5664"
 		},
 		{
 			"project": "gdb",
-			"tag": "gdb-1119"
+			"tag": "gdb-1469"
 		},
 		{
 			"project": "gnumake",
-			"tag": "gnumake-126.1"
+			"tag": "gnumake-126.2"
 		},
 		{
 			"project": "keymgr",
-			"tag": "keymgr-18.0.2"
+			"tag": "keymgr-22"
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-95.8.4"
+			"tag": "ld64-97.14"
 		},
 		{
 			"project": "libiconv",
-			"tag": "libiconv-24.0.1"
+			"tag": "libiconv-26"
 		},
 		{
 			"project": "libstdcxx",
-			"tag": "libstdcxx-37.11"
+			"tag": "libstdcxx-39"
 		}
 	]
 }
