@@ -1,14 +1,16 @@
 {
 	"major_release": "iOS 4",
-	"release": "iOS 4.0",
+	"release": "iOS 4.1",
 	"projects": [
 		{
 			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-576"
+			"tag": "JavaScriptCore-584",
+			"updated": true
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-737.5"
+			"tag": "WebCore-777.1",
+			"updated": true
 		},
 		{
 			"project": "cctools",
@@ -20,7 +22,8 @@
 		},
 		{
 			"project": "gdb",
-			"tag": "gdb-1469"
+			"tag": "gdb-1472",
+			"updated": true
 		},
 		{
 			"project": "gnumake",
