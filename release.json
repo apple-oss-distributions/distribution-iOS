@@ -1,6 +1,6 @@
 {
 	"major_release": "iOS 1",
-	"release": "iPhone SDKb2",
+	"release": "iOS SDKb3",
 	"projects": [
 		{
 			"project": "cctools",
@@ -8,11 +8,13 @@
 		},
 		{
 			"project": "gcc",
-			"tag": "gcc-5470.3"
+			"tag": "gcc-5479",
+			"updated": true
 		},
 		{
 			"project": "gdb",
-			"tag": "gdb-870"
+			"tag": "gdb-952",
+			"updated": true
 		},
 		{
 			"project": "gnumake",
