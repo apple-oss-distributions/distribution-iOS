@@ -1,15 +1,15 @@
 {
 	"major_release": "iOS 4",
-	"release": "iOS 4.1",
+	"release": "iOS 4.2",
 	"projects": [
 		{
 			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-584",
+			"tag": "JavaScriptCore-621.1",
 			"updated": true
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-777.1",
+			"tag": "WebCore-855.7",
 			"updated": true
 		},
 		{
@@ -22,7 +22,7 @@
 		},
 		{
 			"project": "gdb",
-			"tag": "gdb-1472",
+			"tag": "gdb-1510",
 			"updated": true
 		},
 		{
@@ -35,11 +35,13 @@
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-97.14"
+			"tag": "ld64-97.17",
+			"updated": true
 		},
 		{
 			"project": "libiconv",
-			"tag": "libiconv-26"
+			"tag": "libiconv-30",
+			"updated": true
 		},
 		{
 			"project": "libstdcxx",
