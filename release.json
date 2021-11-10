@@ -1,30 +1,30 @@
 {
 	"major_release": "iOS 9",
-	"release": "iOS 9.1",
+	"release": "iOS 9.2",
 	"projects": [
 		{
 			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-7601.1.46.22",
+			"tag": "JavaScriptCore-7601.1.46.44",
 			"updated": true
 		},
 		{
 			"project": "WTF",
-			"tag": "WTF-7601.1.46.22",
+			"tag": "WTF-7601.1.46.42",
 			"updated": true
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-7601.1.46.25.1",
+			"tag": "WebCore-7601.1.46.45",
 			"updated": true
 		},
 		{
 			"project": "WebKit",
-			"tag": "WebKit-7601.1.46.25.2",
+			"tag": "WebKit-7601.1.46.45.1",
 			"updated": true
 		},
 		{
 			"project": "WebKit2",
-			"tag": "WebKit2-7601.1.46.25.2",
+			"tag": "WebKit2-7601.1.46.45.1",
 			"updated": true
 		},
 		{
