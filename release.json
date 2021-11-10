@@ -1,10 +1,11 @@
 {
 	"major_release": "iOS 6",
-	"release": "iOS 6.0",
+	"release": "iOS 6.0.1",
 	"projects": [
 		{
 			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-1097.3"
+			"tag": "JavaScriptCore-1097.3.3",
+			"updated": true
 		},
 		{
 			"project": "WTFEmbedded",
@@ -12,7 +13,8 @@
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-1640"
+			"tag": "WebCore-1640.1",
+			"updated": true
 		},
 		{
 			"project": "cctools",
