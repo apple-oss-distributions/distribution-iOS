@@ -1,14 +1,16 @@
 {
 	"major_release": "iOS 2",
-	"release": "iOS 2.0",
+	"release": "iPhone 2.1",
 	"projects": [
 		{
 			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-461"
+			"tag": "JavaScriptCore-466.1",
+			"updated": true
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-332"
+			"tag": "WebCore-351.9",
+			"updated": true
 		},
 		{
 			"project": "cctools",
@@ -16,11 +18,13 @@
 		},
 		{
 			"project": "gcc",
-			"tag": "gcc-5484"
+			"tag": "gcc-5488",
+			"updated": true
 		},
 		{
 			"project": "gdb",
-			"tag": "gdb-961"
+			"tag": "gdb-962",
+			"updated": true
 		},
 		{
 			"project": "gnumake",
@@ -32,7 +36,8 @@
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-84.1.2"
+			"tag": "ld64-85.2.2",
+			"updated": true
 		},
 		{
 			"project": "libgcc",
