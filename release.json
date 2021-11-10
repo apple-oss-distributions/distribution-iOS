@@ -1,15 +1,15 @@
 {
 	"major_release": "iOS 1",
-	"release": "iOS 1.1.1",
+	"release": "iOS 1.1.2",
 	"projects": [
 		{
 			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-3A109a",
+			"tag": "JavaScriptCore-3B48",
 			"updated": true
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-3A109a",
+			"tag": "WebCore-3B48",
 			"updated": true
 		}
 	]
