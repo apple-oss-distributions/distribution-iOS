@@ -1,0 +1,6 @@
+[submodule "JavaScriptCore"]
+	path = JavaScriptCore
+	url = https://github.com/apple-oss-distributions/JavaScriptCore
+[submodule "WebCore"]
+	path = WebCore
+	url = https://github.com/apple-oss-distributions/WebCore
