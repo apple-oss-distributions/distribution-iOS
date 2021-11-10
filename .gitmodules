@@ -7,27 +7,15 @@
 [submodule "cctools"]
 	path = cctools
 	url = https://github.com/apple-oss-distributions/cctools
-[submodule "gcc"]
-	path = gcc
-	url = https://github.com/apple-oss-distributions/gcc
 [submodule "gdb"]
 	path = gdb
 	url = https://github.com/apple-oss-distributions/gdb
 [submodule "gnumake"]
 	path = gnumake
 	url = https://github.com/apple-oss-distributions/gnumake
-[submodule "keymgr"]
-	path = keymgr
-	url = https://github.com/apple-oss-distributions/keymgr
 [submodule "ld64"]
 	path = ld64
 	url = https://github.com/apple-oss-distributions/ld64
-[submodule "libgcc"]
-	path = libgcc
-	url = https://github.com/apple-oss-distributions/libgcc
-[submodule "libiconv"]
-	path = libiconv
-	url = https://github.com/apple-oss-distributions/libiconv
 [submodule "libstdcxx"]
 	path = libstdcxx
 	url = https://github.com/apple-oss-distributions/libstdcxx
