@@ -1,35 +1,36 @@
 {
 	"major_release": "iOS 11",
-	"release": "iOS 11.2.5",
+	"release": "iOS 11.3",
 	"projects": [
 		{
 			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-7604.5.6.0.1",
+			"tag": "JavaScriptCore-7605.1.33.0.2",
 			"updated": true
 		},
 		{
 			"project": "WTF",
-			"tag": "WTF-7604.5.6.0.1",
+			"tag": "WTF-7605.1.33.0.2",
 			"updated": true
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-7604.5.6.0.1",
+			"tag": "WebCore-7605.1.33.0.2",
 			"updated": true
 		},
 		{
 			"project": "WebKit",
-			"tag": "WebKit-7604.5.6.0.1",
+			"tag": "WebKit-7605.1.33.0.2",
 			"updated": true
 		},
 		{
 			"project": "WebKit2",
-			"tag": "WebKit2-7604.5.6.0.1",
+			"tag": "WebKit2-7605.1.33.0.2",
 			"updated": true
 		},
 		{
 			"project": "libiconv",
-			"tag": "libiconv-51"
+			"tag": "libiconv-51.50.1",
+			"updated": true
 		}
 	]
 }
