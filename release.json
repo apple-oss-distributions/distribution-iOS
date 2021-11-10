@@ -1,26 +1,31 @@
 {
 	"major_release": "iOS 10",
-	"release": "iOS 10.0",
+	"release": "iOS 10.1",
 	"projects": [
 		{
 			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-7602.1.50.1.3"
+			"tag": "JavaScriptCore-7602.2.14.1.1",
+			"updated": true
 		},
 		{
 			"project": "WTF",
-			"tag": "WTF-7602.1.50"
+			"tag": "WTF-7602.2.14.1.1",
+			"updated": true
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-7602.1.50.1.1"
+			"tag": "WebCore-7602.2.14.1.1",
+			"updated": true
 		},
 		{
 			"project": "WebKit",
-			"tag": "WebKit-7602.1.50.1.2"
+			"tag": "WebKit-7602.2.14.1.1",
+			"updated": true
 		},
 		{
 			"project": "WebKit2",
-			"tag": "WebKit2-7602.1.50.1.2"
+			"tag": "WebKit2-7602.2.14.1.1",
+			"updated": true
 		},
 		{
 			"project": "libiconv",
