@@ -1,14 +1,50 @@
 {
-	"major_release": "iOS 1",
-	"release": "iOS 1.0",
+	"major_release": "iOS 2",
+	"release": "iOS 2.0",
 	"projects": [
 		{
 			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-1A543a"
+			"tag": "JavaScriptCore-461"
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-1A543a"
+			"tag": "WebCore-332"
+		},
+		{
+			"project": "cctools",
+			"tag": "cctools-667.8.0"
+		},
+		{
+			"project": "gcc",
+			"tag": "gcc-5484"
+		},
+		{
+			"project": "gdb",
+			"tag": "gdb-961"
+		},
+		{
+			"project": "gnumake",
+			"tag": "gnumake-119"
+		},
+		{
+			"project": "keymgr",
+			"tag": "keymgr-18.0.2"
+		},
+		{
+			"project": "ld64",
+			"tag": "ld64-84.1.2"
+		},
+		{
+			"project": "libgcc",
+			"tag": "libgcc-8.1"
+		},
+		{
+			"project": "libiconv",
+			"tag": "libiconv-24.0.1"
+		},
+		{
+			"project": "libstdcxx",
+			"tag": "libstdcxx-5.1.0.7"
 		}
 	]
 }
