@@ -1,6 +1,6 @@
 {
 	"major_release": "iOS 8",
-	"release": "iOS 8.0",
+	"release": "iOS 8.0.1",
 	"projects": [
 		{
 			"project": "JavaScriptCore",
@@ -16,11 +16,13 @@
 		},
 		{
 			"project": "WebKit",
-			"tag": "WebKit-7600.1.4.9"
+			"tag": "WebKit-7600.1.4.10.1",
+			"updated": true
 		},
 		{
 			"project": "WebKit2",
-			"tag": "WebKit2-7600.1.4.9"
+			"tag": "WebKit2-7600.1.4.10.1",
+			"updated": true
 		},
 		{
 			"project": "libiconv",
