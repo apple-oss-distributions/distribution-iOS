@@ -1,10 +1,11 @@
 {
 	"major_release": "iOS 8",
-	"release": "iOS 8.1.2",
+	"release": "iOS 8.1.3",
 	"projects": [
 		{
 			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-7600.1.4.11.8"
+			"tag": "JavaScriptCore-7600.1.4.13.1",
+			"updated": true
 		},
 		{
 			"project": "WTF",
@@ -12,19 +13,17 @@
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-7600.1.4.12.3"
+			"tag": "WebCore-7600.1.4.13.2",
+			"updated": true
 		},
 		{
 			"project": "WebKit",
-			"tag": "WebKit-7600.1.4.12.4"
+			"tag": "WebKit-7600.1.4.13.3",
+			"updated": true
 		},
 		{
 			"project": "WebKit2",
-			"tag": "WebKit2-7600.1.4.12.4"
-		},
-		{
-			"project": "ld64",
-			"tag": "ld64-241.9",
+			"tag": "WebKit2-7600.1.4.13.3",
 			"updated": true
 		},
 		{
