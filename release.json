@@ -1,30 +1,30 @@
 {
 	"major_release": "iOS 10",
-	"release": "iOS 10.3.1",
+	"release": "iOS 10.3.2",
 	"projects": [
 		{
 			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-7603.1.30.1.33",
+			"tag": "JavaScriptCore-7603.2.4",
 			"updated": true
 		},
 		{
 			"project": "WTF",
-			"tag": "WTF-7603.1.30.1.33",
+			"tag": "WTF-7603.2.4",
 			"updated": true
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-7603.1.30.1.33",
+			"tag": "WebCore-7603.2.4",
 			"updated": true
 		},
 		{
 			"project": "WebKit",
-			"tag": "WebKit-7603.1.30.1.33",
+			"tag": "WebKit-7603.2.4",
 			"updated": true
 		},
 		{
 			"project": "WebKit2",
-			"tag": "WebKit2-7603.1.30.1.33",
+			"tag": "WebKit2-7603.2.4",
 			"updated": true
 		},
 		{
