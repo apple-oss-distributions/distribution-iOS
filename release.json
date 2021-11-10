@@ -1,26 +1,31 @@
 {
 	"major_release": "iOS 3",
-	"release": "iPhone 3.0",
+	"release": "iPhone 3.1",
 	"projects": [
 		{
 			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-521"
+			"tag": "JavaScriptCore-525",
+			"updated": true
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-514"
+			"tag": "WebCore-528.14",
+			"updated": true
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-751"
+			"tag": "cctools-758",
+			"updated": true
 		},
 		{
 			"project": "gcc",
-			"tag": "gcc-5572.10.2"
+			"tag": "gcc-5575.11",
+			"updated": true
 		},
 		{
 			"project": "gdb",
-			"tag": "gdb-1119"
+			"tag": "gdb-1128",
+			"updated": true
 		},
 		{
 			"project": "gnumake",
@@ -32,7 +37,8 @@
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-95.8.4"
+			"tag": "ld64-96.5",
+			"updated": true
 		},
 		{
 			"project": "libiconv",
