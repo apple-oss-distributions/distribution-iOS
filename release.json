@@ -1,30 +1,34 @@
 {
-	"major_release": "iOS 8",
-	"release": "iOS 8.0",
+	"major_release": "iOS 9",
+	"release": "iOS 9.0",
 	"projects": [
 		{
 			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-7600.1.4.9"
+			"tag": "JavaScriptCore-7601.1.46.3"
 		},
 		{
 			"project": "WTF",
-			"tag": "WTF-7600.1.4.9"
+			"tag": "WTF-7601.1.46.3"
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-7600.1.4.10"
+			"tag": "WebCore-7601.1.46.10"
 		},
 		{
 			"project": "WebKit",
-			"tag": "WebKit-7600.1.4.9"
+			"tag": "WebKit-7601.1.46.9"
 		},
 		{
 			"project": "WebKit2",
-			"tag": "WebKit2-7600.1.4.9"
+			"tag": "WebKit2-7601.1.46.9"
+		},
+		{
+			"project": "ld64",
+			"tag": "ld64-253.3"
 		},
 		{
 			"project": "libiconv",
-			"tag": "libiconv-42"
+			"tag": "libiconv-44"
 		}
 	]
 }

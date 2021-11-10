@@ -19,3 +19,6 @@
 [submodule "WebKit2"]
 	path = WebKit2
 	url = https://github.com/apple-oss-distributions/WebKit2
+[submodule "ld64"]
+	path = ld64
+	url = https://github.com/apple-oss-distributions/ld64
