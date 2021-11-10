@@ -1,26 +1,31 @@
 {
 	"major_release": "iOS 13",
-	"release": "iOS 13.0",
+	"release": "iOS 13.1",
 	"projects": [
 		{
 			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-7608.1.48"
+			"tag": "JavaScriptCore-7608.2.11.0.1",
+			"updated": true
 		},
 		{
 			"project": "WTF",
-			"tag": "WTF-7608.1.48"
+			"tag": "WTF-7608.2.11.0.1",
+			"updated": true
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-7608.1.48"
+			"tag": "WebCore-7608.2.11.0.1",
+			"updated": true
 		},
 		{
 			"project": "WebKit",
-			"tag": "WebKit-7608.1.48"
+			"tag": "WebKit-7608.2.11.0.1",
+			"updated": true
 		},
 		{
 			"project": "WebKit2",
-			"tag": "WebKit2-7608.1.48"
+			"tag": "WebKit2-7608.2.11.0.1",
+			"updated": true
 		},
 		{
 			"project": "libiconv",
