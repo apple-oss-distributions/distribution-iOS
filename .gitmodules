@@ -4,9 +4,6 @@
 [submodule "WebCore"]
 	path = WebCore
 	url = https://github.com/apple-oss-distributions/WebCore
-[submodule "ld64"]
-	path = ld64
-	url = https://github.com/apple-oss-distributions/ld64
 [submodule "WTFEmbedded"]
 	path = WTFEmbedded
 	url = https://github.com/apple-oss-distributions/WTFEmbedded

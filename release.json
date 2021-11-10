@@ -1,25 +1,21 @@
 {
 	"major_release": "iOS 7",
-	"release": "iOS 7.1",
+	"release": "iOS 7.1.1",
 	"projects": [
 		{
 			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-1218.33",
+			"tag": "JavaScriptCore-1218.34",
 			"updated": true
 		},
 		{
 			"project": "WTFEmbedded",
-			"tag": "WTFEmbedded-95.23",
+			"tag": "WTFEmbedded-95.24",
 			"updated": true
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-1889.59",
+			"tag": "WebCore-1889.60",
 			"updated": true
-		},
-		{
-			"project": "ld64",
-			"tag": "ld64-224.1"
 		},
 		{
 			"project": "libiconv",
