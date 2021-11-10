@@ -1,47 +1,56 @@
 {
 	"major_release": "iOS 3",
-	"release": "iPhone 3.1.3",
+	"release": "iOS 3.2",
 	"projects": [
 		{
 			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-525"
+			"tag": "JavaScriptCore-554.1",
+			"updated": true
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-528.15",
+			"tag": "WebCore-658.28",
 			"updated": true
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-758"
+			"tag": "cctools-773",
+			"updated": true
 		},
 		{
 			"project": "gcc",
-			"tag": "gcc-5575.11"
+			"tag": "gcc-5659",
+			"updated": true
 		},
 		{
 			"project": "gdb",
-			"tag": "gdb-1128"
+			"tag": "gdb-1461.2",
+			"updated": true
 		},
 		{
 			"project": "gnumake",
-			"tag": "gnumake-126.1"
+			"tag": "gnumake-126.2",
+			"updated": true
 		},
 		{
 			"project": "keymgr",
-			"tag": "keymgr-18.0.2"
+			"tag": "keymgr-22",
+			"updated": true
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-96.5"
+			"tag": "ld64-97.2",
+			"updated": true
 		},
 		{
 			"project": "libiconv",
-			"tag": "libiconv-24.0.1"
+			"tag": "libiconv-26",
+			"updated": true
 		},
 		{
 			"project": "libstdcxx",
-			"tag": "libstdcxx-37.11"
+			"tag": "libstdcxx-39",
+			"updated": true
 		}
 	]
 }
