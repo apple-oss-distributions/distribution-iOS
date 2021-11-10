@@ -1,26 +1,31 @@
 {
 	"major_release": "iOS 4",
-	"release": "iOS 4.3.3",
+	"release": "iOS 4.3",
 	"projects": [
 		{
 			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-721.26"
+			"tag": "JavaScriptCore-721.26",
+			"updated": true
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-955.66.1"
+			"tag": "WebCore-955.66",
+			"updated": true
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-795"
+			"tag": "cctools-795",
+			"updated": true
 		},
 		{
 			"project": "gcc",
-			"tag": "gcc-5666.3"
+			"tag": "gcc-5666.3",
+			"updated": true
 		},
 		{
 			"project": "gdb",
-			"tag": "gdb-1515"
+			"tag": "gdb-1515",
+			"updated": true
 		},
 		{
 			"project": "gnumake",
