@@ -1,6 +1,6 @@
 {
 	"major_release": "iOS 4",
-	"release": "iOS 4.3.2",
+	"release": "iOS 4.3.3",
 	"projects": [
 		{
 			"project": "JavaScriptCore",
@@ -8,8 +8,7 @@
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-955.66.1",
-			"updated": true
+			"tag": "WebCore-955.66.1"
 		},
 		{
 			"project": "cctools",
