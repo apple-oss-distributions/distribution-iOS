@@ -1,6 +1,12 @@
-[submodule "JavaScriptCore"]
-	path = JavaScriptCore
-	url = https://github.com/apple-oss-distributions/JavaScriptCore
-[submodule "WebCore"]
-	path = WebCore
-	url = https://github.com/apple-oss-distributions/WebCore
+[submodule "cctools"]
+	path = cctools
+	url = https://github.com/apple-oss-distributions/cctools
+[submodule "gcc"]
+	path = gcc
+	url = https://github.com/apple-oss-distributions/gcc
+[submodule "gdb"]
+	path = gdb
+	url = https://github.com/apple-oss-distributions/gdb
+[submodule "gnumake"]
+	path = gnumake
+	url = https://github.com/apple-oss-distributions/gnumake

@@ -1,16 +1,22 @@
 {
 	"major_release": "iOS 1",
-	"release": "iOS 1.1.4",
+	"release": "iPhone SDKb2",
 	"projects": [
 		{
-			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-4A102",
-			"updated": true
+			"project": "cctools",
+			"tag": "cctools-667.4.0"
 		},
 		{
-			"project": "WebCore",
-			"tag": "WebCore-4A102",
-			"updated": true
+			"project": "gcc",
+			"tag": "gcc-5470.3"
+		},
+		{
+			"project": "gdb",
+			"tag": "gdb-870"
+		},
+		{
+			"project": "gnumake",
+			"tag": "gnumake-119"
 		}
 	]
 }
