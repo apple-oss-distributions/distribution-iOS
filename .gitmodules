@@ -1,21 +1,6 @@
-[submodule "JavaScriptCore"]
-	path = JavaScriptCore
-	url = https://github.com/apple-oss-distributions/JavaScriptCore
-[submodule "WebCore"]
-	path = WebCore
-	url = https://github.com/apple-oss-distributions/WebCore
-[submodule "WTFEmbedded"]
-	path = WTFEmbedded
-	url = https://github.com/apple-oss-distributions/WTFEmbedded
 [submodule "libiconv"]
 	path = libiconv
 	url = https://github.com/apple-oss-distributions/libiconv
-[submodule "WTF"]
-	path = WTF
-	url = https://github.com/apple-oss-distributions/WTF
 [submodule "WebKit"]
 	path = WebKit
 	url = https://github.com/apple-oss-distributions/WebKit
-[submodule "WebKit2"]
-	path = WebKit2
-	url = https://github.com/apple-oss-distributions/WebKit2
