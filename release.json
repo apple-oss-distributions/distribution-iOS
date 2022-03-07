@@ -1,16 +1,15 @@
 {
 	"major_release": "iOS 15",
-	"release": "iOS 15.1.1",
+	"release": "iOS 15.2",
 	"projects": [
 		{
 			"project": "WebKit",
-			"tag": "WebKit-7612.2.9.0.20",
+			"tag": "WebKit-7612.3.6.0.4",
 			"updated": true
 		},
 		{
 			"project": "libiconv",
-			"tag": "libiconv-61",
-			"updated": true
+			"tag": "libiconv-61"
 		}
 	]
 }
