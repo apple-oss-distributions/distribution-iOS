@@ -1,10 +1,10 @@
 {
 	"major_release": "iOS 15",
-	"release": "iOS 15.2",
+	"release": "iOS 15.3",
 	"projects": [
 		{
 			"project": "WebKit",
-			"tag": "WebKit-7612.3.6.0.4",
+			"tag": "WebKit-7612.4.9.0.3",
 			"updated": true
 		},
 		{
