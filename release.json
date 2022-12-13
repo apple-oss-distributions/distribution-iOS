@@ -1,10 +1,10 @@
 {
 	"major_release": "iOS 16",
-	"release": "iOS 16.1",
+	"release": "iOS 16.2",
 	"projects": [
 		{
 			"project": "WebKit",
-			"tag": "WebKit-7614.2.9.0.10"
+			"tag": "WebKit-7614.3.7.0.6"
 		},
 		{
 			"project": "libiconv",
