@@ -1,14 +1,14 @@
 {
 	"major_release": "iOS 18",
-	"release": "iOS 18.3",
+	"release": "iOS 18.4",
 	"projects": [
 		{
 			"project": "WebKit",
-			"tag": "WebKit-7620.2.4.10.7"
+			"tag": "WebKit-7621.1.15.10.7"
 		},
 		{
 			"project": "libiconv",
-			"tag": "libiconv-109"
+			"tag": "libiconv-109.100.2"
 		}
 	]
 }
